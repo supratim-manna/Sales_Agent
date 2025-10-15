@@ -51,7 +51,7 @@ cd C:\Users\YourUsername\projects
 
 Enter this in the command prompt in the Projects folder:
 
-`git clone https://github.com/ed-donner/agents.git`
+`git clone https://github.com/supratim-manna/Sales_Agent/`
 
 This creates a new directory `agents` within your Projects folder and downloads the code for the class. Do `cd agents` to go into it. This `agents` directory is known as the "project root directory".
 
