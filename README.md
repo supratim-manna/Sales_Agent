@@ -57,9 +57,3 @@ In both cases, an Agent can collaborate with another Agent
 With tools, control passes back
 
 With handoffs, control passes across
-
-### Remember to check the trace
-
-https://platform.openai.com/traces
-
-And then check your email!!
